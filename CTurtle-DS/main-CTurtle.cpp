@@ -1,5 +1,5 @@
  /* File:   main_CTurtle.cpp
- * Original Author:  Jesse W. Walker, 2019
+ * Original Author:  Jesse W. Walker with modifications by Jan Pearce, 2019
  * Modified by: FIXME
  */
 
@@ -21,6 +21,13 @@ int main() {
 		turtle.right(90);
 	}
 	turtle.end_fill();
+	turtle.penup();
+	turtle.hideturtle();
+	turtle.forward(100);
+	turtle.pendown();
+	turtle.fillcolor({ "blue" });
+	turtle.write("I love turtles!");
+
 
 	scr.exitonclick();  //exists graphics screen
 	return 0;

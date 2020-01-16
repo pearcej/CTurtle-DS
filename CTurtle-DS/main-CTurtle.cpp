@@ -26,7 +26,7 @@ int main() {
 	turtle.forward(100);
 	turtle.pendown();
 	turtle.fillcolor({ "blue" });
-	turtle.write("I love turtles!");
+	turtle.write("I love Data Structures!");
 
 
 	scr.exitonclick();  //exists graphics screen

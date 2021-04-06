@@ -25,7 +25,7 @@ int main() {
 	turtle.end_fill();
 	turtle.penup();
 	turtle.hideturtle();
-	turtle.forward(100);
+	turtle.forward(60);
 	turtle.pendown();
 	turtle.fillcolor({ "blue" });
 	turtle.write("I love Data Structures!");

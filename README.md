@@ -1,10 +1,10 @@
-# [L01: Loopy Graphics with C-Turtle](https://docs.google.com/document/d/1ioeFDwSYjqptnOVeFmoiKL9baWLCeVRM9FQvoci6iio/edit?usp=sharing)
+# [L02: Loopy Graphics with C-Turtle](https://docs.google.com/document/d/1yMQGsJwNXTUsabYNo_k56b9-Jwk1EKFaGgM8e2fVt2c/edit?usp=sharing)
 
 ### Author:
-- Author of primary logic: *FIXME*
-- Author of [C-Turtle](https://github.com/walkerje/C-Turtle): Jesse W. Walker
+- Author of this program: *FIXME*
+- Author of the [C-Turtle](https://github.com/walkerje/C-Turtle) library: Jesse Walker-Schadler
 
-## Use C-turtle to create something that makes you happy!
+## Use C-Turtle to create something that makes you happy!
 
 ### Starter files have been provided for you in C++
 
@@ -65,5 +65,5 @@ Also list all other references below.*
 *FIXME*
 
 ## References:
-- This repo uses [C-Turtle](https://github.com/walkerje/C-Turtle) by Jesse W. Walker
+- This repo uses [C-Turtle](https://github.com/walkerje/C-Turtle) by Jesse Walker-Schadler
 - *Add additional reference(s) to all work that inspired this submission or state that this is original work.*
